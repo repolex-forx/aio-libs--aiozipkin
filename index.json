@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiozipkin",
+  "versions": [
+    {
+      "commit": "978e7cde37a838340ad2c4aae1b6a72735fa8414",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:04:15.145698+00:00"
+    }
+  ]
+}
