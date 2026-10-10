@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/aiozipkin/commit/978e7cde37a838340ad2c4aae1b6a72735fa8414",
       "git:hexsha": "978e7cde37a838340ad2c4aae1b6a72735fa8414",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/aiozipkin/commit/3cf1e9a3a026988626eafe5401ee2a581a7f4e1a",
